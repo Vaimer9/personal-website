@@ -10,7 +10,6 @@ import NavBar from '../components/navbar.svelte';
     <h1>Vaimer9's Homepage</h1>
     <div class="content">
         <div>A programmer and linux enthusiast</div>
-        <div>See <a href="/about">about</a> for more info</div>
     </div>
 </main>
 
